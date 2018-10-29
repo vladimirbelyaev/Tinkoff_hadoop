@@ -1,0 +1,10 @@
+static	161627
+iframe.html	160679
+ru	154005
+news	144935
+sandbox	131903
+video	106081
+index.php	105554
+catalog	91508
+view	85671
+tickets	64704

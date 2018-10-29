@@ -1,0 +1,10 @@
+img	2394227
+dmpId	160678
+script	131801
+utm_source	101817
+id	97695
+t	80647
+page	71513
+utm_medium	68160
+s	66970
+utm_campaign	61659
